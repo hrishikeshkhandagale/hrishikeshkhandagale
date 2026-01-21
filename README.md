@@ -1,112 +1,107 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Hrishikesh%20Khandagale&fontSize=40&fontColor=ffffff" />
-</p>
+# 👋 Hi, I'm Hrishikesh Khandagale
 
-<h3 align="center">Cloud & DevOps Engineer</h3>
-
-<p align="center">
-  AWS | DevOps | CI/CD | Docker | Kubernetes | Terraform
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🚀 AWS & DevOps Engineer with hands-on experience in building scalable, secure, and highly available cloud infrastructure.  
-⚙️ Strong in automation, CI/CD pipelines, containerization, and Infrastructure as Code.  
-🎯 Passionate about cloud-native architectures and DevOps best practices.
+🚀 **Cloud Engineer | AWS & DevOps Enthusiast**
 
 📍 Pune, Maharashtra  
-📧 **Email:** khandagalehrishikesh7@gmail.com  
+📧 khandagalehrishikesh7@gmail.com  
+📱 +91 8010314827  
+🔗 GitHub: https://github.com/hrishikeshkhandagale  
+🔗 LinkedIn: (add your LinkedIn URL)
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Profile Summary
 
-**☁️ Cloud**
-- AWS (EC2, S3, VPC, IAM, RDS, DynamoDB, Lambda, CloudFront)
+AWS & DevOps Engineer with hands-on experience in designing, deploying, and managing scalable cloud infrastructure. Skilled in AWS services, CI/CD automation, Infrastructure as Code, containerization, and monitoring. Passionate about building highly available, secure, and cost-optimized cloud solutions.
 
-**⚙️ DevOps & Automation**
-- Jenkins | Terraform | Docker | Kubernetes
-- Git | GitHub | GitLab
+---
 
-**📊 Monitoring & Messaging**
-- CloudWatch | SNS | SQS | EventBridge
+## 🛠️ Technical Skills
 
-**🖥 OS & Networking**
-- Amazon Linux | Ubuntu | Linux Administration
-- VPC | Subnets | NAT Gateway | Internet Gateway | VPN
+### ☁️ Cloud Platforms
+- AWS: EC2, S3, VPC, IAM, RDS, DynamoDB, Lambda, CloudFront
 
-**🔐 Security**
-- IAM Roles & Policies
-- Security Groups | NACL
+### ⚙️ DevOps Tools
+- Jenkins, Terraform, Docker, Kubernetes  
+- Git, GitHub, GitLab
+
+### 📊 Monitoring & Messaging
+- CloudWatch, SNS, SQS, EventBridge
+
+### 🖥️ Operating Systems
+- Amazon Linux, Ubuntu, Linux Administration
+
+### 🗄️ Databases
+- MySQL, Amazon RDS, DynamoDB
+
+### 🌐 Networking
+- VPC, Subnets, Route Tables  
+- NAT Gateway, Internet Gateway, VPN
+
+### 🔐 Security
+- IAM Roles & Policies  
+- Security Groups, NACLs  
 - Presigned URLs
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-### 🔹 AWS 3-Tier Architecture
-🔗 https://github.com/hrishikeshkhandagale/Three_tier_Architecture.git
+### 🔹 AWS 3-Tier Architecture Deployment
+🔗 Repo: https://github.com/hrishikeshkhandagale/Three_tier_Architecture.git
 
-- Designed highly available 3-tier architecture using AWS
+- Designed highly available 3-tier architecture using VPC, EC2, RDS, S3 & CloudFront
 - Implemented public & private subnets with NAT Gateway
 - Applied IAM least-privilege security model
-- Enabled monitoring & automated backups
+- Enabled CloudWatch monitoring & automated RDS backups
 
 ---
 
-### 🔹 Serverless Image Upload System
-🔗 https://github.com/hrishikeshkhandagale/Serverless-Image-Upload-.git
+### 🔹 Serverless Image Upload & Static Website
+🔗 Repo: https://github.com/hrishikeshkhandagale/Serverless-Image-Upload-.git
 
-- Fully serverless architecture using API Gateway, Lambda & S3
-- Secure uploads via presigned URLs
-- Hosted frontend using S3 static website hosting
+- Built fully serverless image upload system using API Gateway, Lambda & S3
+- Implemented secure presigned URL uploads
+- Configured Lambda triggers for post-upload processing
+- Hosted frontend on S3 static website hosting
 - Zero server maintenance & cost-efficient scaling
 
 ---
 
-### 🔹 Jarvis Voice Assistant (DevOps Project)
-🔗 https://github.com/hrishikeshkhandagale/Jarvis-Chat-Assistant.git
+### 🔹 Jarvis Voice Assistant (Python | AWS | DevOps)
+🔗 Repo: https://github.com/hrishikeshkhandagale/Jarvis-Chat-Assistant.git
 
-- Python Flask-based intelligent assistant
-- Infrastructure provisioned using Terraform
-- Jenkins CI/CD pipeline for automated deployment
-- Reduced deployment time by 70%
+- Developed Python Flask–based intelligent voice assistant
+- Provisioned AWS infrastructure using Terraform
+- Implemented Jenkins CI/CD pipeline for automated deployments
+- Reduced deployment time by 70% through CI/CD optimization
 
 ---
 
 ## 💼 Internship Experience
 
-**Cloud Engineer Intern – Cravita Technologies (June 2025)**
+### Cloud Engineer Intern  
+**Cravita Technologies India Pvt. Ltd.** | June 2025
 
-- Managed EC2 environments for dev & testing
-- Implemented IAM policies & security groups
-- Configured CloudWatch alarms & logs
+- Managed EC2-based development & testing environments
+- Implemented IAM policies, security groups & SSH access
+- Configured CloudWatch alarms, logs & metrics
 - Performed backups using EBS snapshots & AMIs
 
 ---
 
 ## 🎓 Education
 
-🎓 **BBA (Computer Application)**  
+**Bachelor of Business Administration (Computer Application)**  
 Gramonnati Mandal's ACS College, Pune  
-📊 CGPA: **7.95**
+📊 CGPA: 7.95  
+📅 Aug 2022 – May 2025
 
 ---
 
-## 📫 Connect With Me
+## 📬 Contact Me
 
-<p align="left">
-  <a href="https://github.com/hrishikeshkhandagale">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+📧 Email: khandagalehrishikesh7@gmail.com  
+📍 Location: Pune, Maharashtra  
 
----
-
-⭐ *If you like my profile, feel free to star my repositories!*
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer"/>
-</p>
+⭐ *If you like my work, feel free to star my repositories!*
