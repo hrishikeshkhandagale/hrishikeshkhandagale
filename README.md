@@ -64,7 +64,7 @@
 |---------|--------------|-----------|
 | ☁️ AWS Cloud | EC2, VPC, RDS, S3, IAM | 🔗 [AWS 3-Tier Architecture](https://github.com/hrishikeshkhandagale/Three_tier_Architecture.git) |
 | 🌀 Serverless | API Gateway, Lambda, S3 | 🔗 [Serverless Image Upload System](https://github.com/hrishikeshkhandagale/Serverless-Image-Upload-.git) |
-| 🚀 CI/CD DevOps | Jenkins, Terraform, AWS EC2 | 🔗 [Automating_Java_Application_Deployments_using_GitHub-Actions] [(https://github.com/hrishikeshkhandagale/Automating_Java_Application_Deployments_using_GitHub-Actions) |
+| 🚀 CI/CD DevOps | Github Action, Docker, AWS EC2 | 🔗[Automating_Java_Application_Deployments_using_GitHub-Actions](https://github.com/hrishikeshkhandagale/Automating_Java_Application_Deployments_using_GitHub-Actions) |
 
 ---
 
